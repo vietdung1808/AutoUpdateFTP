@@ -1,0 +1,12 @@
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\ApplicationTest.exe
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\ApplicationTest.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\ApplicationTest.csprojResolveAssemblyReference.cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\ApplicationTest.Form1.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\ApplicationTest.Properties.Resources.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\ApplicationTest.csproj.GenerateResource.Cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\ApplicationTest.exe
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\ApplicationTest.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.dll
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\Ionic.Zip.dll
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\RWINI.dll
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.pdb

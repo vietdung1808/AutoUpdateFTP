@@ -1,0 +1,7 @@
+<?xml version="1.0"?> 
+<autoUpdate> 
+	<url>ftp://127.0.0.1/InfoUpdate.xml</url>
+	<ftpUser>u1</ftpUser>
+	<ftpPass>123</ftpPass>
+	<version>1.0</version>
+</autoUpdate>

@@ -1,0 +1,8 @@
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\bin\Debug\AutoUpdateFTP.exe
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\bin\Debug\AutoUpdateFTP.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdateFTP.csprojResolveAssemblyReference.cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdateFTP.Properties.Resources.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdateFTP.csproj.GenerateResource.Cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdateFTP.exe
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdateFTP.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdateFTP.frmDownloading.resources

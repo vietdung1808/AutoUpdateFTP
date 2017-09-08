@@ -1,0 +1,36 @@
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AppTest.exe
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.dll
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\Ionic.Zip.dll
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.csprojResolveAssemblyReference.cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.Form1.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.Properties.Resources.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.exe
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AppTest.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.xml
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AppTest.exe
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AppTest.pdb
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.dll
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\bin\Debug\Ionic.Zip.dll
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.xml
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.csprojResolveAssemblyReference.cache
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.Form1.resources
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.Properties.Resources.resources
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.exe
+D:\1.YUSEN\7.Other\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.pdb
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\bin\Debug\AppTest.exe
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\bin\Debug\AppTest.pdb
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.dll
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\bin\Debug\Ionic.Zip.dll
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\bin\Debug\AutoUpdate.xml
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.csprojResolveAssemblyReference.cache
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.Form1.resources
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.Properties.Resources.resources
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.exe
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\ApplicationTest\obj\Debug\AppTest.pdb

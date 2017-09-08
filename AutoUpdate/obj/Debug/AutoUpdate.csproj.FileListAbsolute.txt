@@ -1,0 +1,29 @@
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\bin\Debug\AutoUpdate.dll
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\bin\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.frmDownloading.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.dll
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.frmUpdateInfo.resources
+D:\1.YUSEN\7. Other\AutoUpdateFTP\AutoUpdateFTP\obj\Debug\AutoUpdate.frmUpdateAccept.resources
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\bin\Debug\AutoUpdate.dll
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.frmDownloading.resources
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.frmUpdateInfo.resources
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.frmUpdateAccept.resources
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.dll
+D:\1.YUSEN\7.Other\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\bin\Debug\AutoUpdate.dll
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.frmDownloading.resources
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.frmUpdateInfo.resources
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.frmUpdateAccept.resources
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.dll
+D:\1.YUSEN\7.Other\CommonClass\HCM\AutoUpdateFTP\AutoUpdate\obj\Debug\AutoUpdate.pdb
